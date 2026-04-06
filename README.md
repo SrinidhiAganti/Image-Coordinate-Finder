@@ -58,7 +58,7 @@ pip install -r requirements.txt
 3. Run the app:
 
 ```
-streamlit run app.py
+[streamlit run app.py](https://image-coordinate-finder-gna5qerghyuai9b3mwgdli.streamlit.app/)
 ```
 
 ---
@@ -88,6 +88,7 @@ streamlit run app.py
 * 🎨 Visual click markers on image
 * 📥 Export coordinates as JSON/CSV
 * 🧠 AI-based object detection integration
+
 
 ---
 
